@@ -1,4 +1,4 @@
-,date,pressure,temperature,humidity,wind_direction,rain,radiation
+date,pressure,temperature,humidity,wind_direction,rain,radiation
 2017-01-01 00:10:00,1010.39,-7.48,93.8,0.82,90.6,0.0,0.0
 2017-01-01 01:10:00,1009.46,-7.5,93.8,1.18,259.7,0.0,0.0
 2017-01-01 02:10:00,1008.7,-6.55,92.9,1.05,218.7,0.0,0.0
